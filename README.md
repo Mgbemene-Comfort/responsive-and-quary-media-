@@ -1,1 +1,1 @@
-https://github.com/Mgbemene-Comfort/responsive-and-quary-media-
+https://mgbemene-comfort.github.io/responsive-and-quary-media-/
